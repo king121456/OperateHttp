@@ -1,0 +1,4 @@
+F:\GitHubRepository\OperateHtpp\operateHttp\operateHttp\bin\operateHttp.dll
+F:\GitHubRepository\OperateHtpp\operateHttp\operateHttp\bin\operateHttp.pdb
+F:\GitHubRepository\OperateHtpp\operateHttp\operateHttp\obj\Debug\operateHttp.dll
+F:\GitHubRepository\OperateHtpp\operateHttp\operateHttp\obj\Debug\operateHttp.pdb
